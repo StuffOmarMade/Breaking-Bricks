@@ -3,7 +3,7 @@ A replica of the popular Atari game Breakout 2600.
 
 A web based version: [itch.io]
 
-NOTE: This version includes one level only.  Some features may not be found or may not be as exact as the original game.
+**NOTE:** This version includes one level only.  Some features may not be found or may not be as exact as the original game.
 
 This project was done to practice Unity game development.
 
